@@ -1,0 +1,1 @@
+pyinstaller FlashULock.py --onefile --hidden-import tkinter --hidden-import os --hidden-import subprocess --hidden-import psutil --hidden-import sys --hidden-import art
