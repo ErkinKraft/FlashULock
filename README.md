@@ -1,4 +1,8 @@
-▎FlashULock
+▎Обратная связь
+- **Telegram:** [@ErkinKraft](https://t.me/ErkinKraft)
+- **Discord:** erkinkraft
+- **VK:** [vk.com/erkinkraft](https://vk.com/erkinkraft)
+- **Gmail:** erkinkraft@gmail.com
 
 ▎Описание
 
